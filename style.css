@@ -1,0 +1,57 @@
+.borderSite
+{
+	border: 1px solid black;
+	text-align: center;
+}
+
+#wrapper
+{
+	border: 1px solid red;
+	width: 1024px;
+	margin: 0px auto;
+	
+}
+
+#header
+{
+	width: 100%;
+	height: 100px;
+	background: #4fc4bc;
+	text-align: center;
+	line-height: 50px;
+}
+#menu
+{
+	height: 40px;
+	background: red;
+}
+
+#leftcol
+{
+	width: 25%;
+	float: left;
+	height: 300px;
+	background: teal;
+}
+
+#center
+{
+	width: 50%;
+	margin-left: 258px;
+	height: 300px;
+	background: #3fc3ac;
+}
+#rightcol
+{
+	float: right;
+	margin-top: -302px;
+	height: 300px;
+	width: 25%;
+	background: lime;
+}
+
+#footer
+{
+	height: 60px;
+	background: aqua;
+}
