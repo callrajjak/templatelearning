@@ -15,6 +15,16 @@
 </div>
 <div id="leftcol" class="borderSite">
 	<h3>this is left column</h3>
+        
+        <marquee direction="left" scrollamount="2" ><div id="top"><img src="G1.jpg" height="50" width="130 "/></div></marquee> 
+        
+       <div id="marquee"> <marquee direction="up" scrollamount="2" align="center"><div id="left"><img src="G2.jpg" height="50" width="130"/>
+            </div></marquee> 
+        
+        <marquee direction="down" scrollamount="2"><div id="right"><img src="G3.jpg" height="50" width="130"/></div></marquee> 
+       </div>
+        
+        <marquee direction="right" scrollamount="2"><div id="bottom"><img src="G4.jpg" height="50" width="130"/></div></marquee> 
 </div>
 <div id="center" class="borderSite">
 	<h3>this is center part</h3>

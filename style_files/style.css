@@ -57,41 +57,15 @@
 }
 #top
 {
+   float:left;
    height: 50px;
-   width: 50%;
+   width: 25%;
    background:#C32148;
-   margin-top: 5px;
 }
-#left
-{
- /* float:left;*/
-height: 50px;
-width: 50%;
-background: #C42150;
-margin-left: 15px;
-align-content: center;
-}
-#right
-{
-  /*float:right;*/
-height: 50px;
-width: 50%;
-background: #C42150;
-margin-right: 15px;
-}
-
 #bottom
 {
+  float:right;
 height: 50px;
-width: 50%;
+width: 25%;
 background: #C42150;
-margin-bottom: 15px;
-margin-left: 15px;
-margin-top: 10px;
-}
-
-#marquee
-{
-   align-self: center;
-   
 }
